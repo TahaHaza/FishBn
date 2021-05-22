@@ -65,6 +65,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Cloning this Repo
+If you do wish to clone this Repository, please choose this branch and not the main branch, the main branch is the branch which doesn't have any folders and this one has everything organised for you so when you clone this repo and open up your IDE your not flooded with files and Confused where everything is. And also make sure to change the import root directories as I haven't done them for you.
+Many Thanks,
+Taha Haza
