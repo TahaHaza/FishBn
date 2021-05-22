@@ -1,14 +1,12 @@
 import React from "react";
-import Header from "./Header";
-import Headercolor from "./Header";
-import "./App.css"
+import Navbar from "../Components/Navbar/Navbar"
+import "./CSS Files/App.css"
 
 function App() {
   return (
     // BEM
     <div className="app">
-      <Header />
-      <Headercolor />
+      <Navbar />
     </div>
   );
 }
